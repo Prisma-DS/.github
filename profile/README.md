@@ -1,7 +1,7 @@
 # Quienes Somos
 En Prisma DS ayudamos a las empresas a tomar decisiones con información clara y confiable. 
 
-Somos una consultoría de datos especializada en reportes, modelado y automatización con Power BI, apoyada en bases de datos SQL (PostgreSQL y Oracle) y Python.
+Somos una consultoría de datos especializada en reportes, modelado y automatización con Power BI, apoyada en bases de datos SQL (PostgreSQL, SQLServer, Oracle) y Python.
 
 # Qué hacemos
 - Dashboards e informes en Power BI a medida
