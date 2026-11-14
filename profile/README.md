@@ -55,3 +55,25 @@ Desarrollamos una aplicación web interactiva que automatiza el control de factu
 
 🔗 **[Explorar el Repositorio y Código](https://github.com/jesitm/tablero-monotributo-streamlit)**
 
+## Seguimiento de Cotización UVA: Inteligencia Financiera con Datos Oficiales
+
+### El Desafío de Negocio
+En el mercado argentino, miles de contratos comerciales, alquileres, presupuestos de construcción y créditos se ajustan por Unidad de Valor Adquisitivo (UVA). Consultar manualmente las series históricas del Banco Central o calcular variaciones interanuales y acumuladas en hojas de cálculo genera demoras y errores al momento de actualizar valores o proyectar costos.
+
+### La Solución de Prisma DS
+Diseñamos un tablero financiero interactivo conectado a los registros oficiales del Banco Central de la República Argentina (BCRA). Permite consultar de forma inmediata la evolución histórica desde 2016 hasta la actualidad, automatizando el cálculo de indicadores clave para la toma de decisiones financieras.
+
+### Impacto y Funcionalidades Clave
+* **Consulta histórica instantánea:** Navegación ágil por año, mes y día exacto para liquidaciones o actualizaciones contractuales sin depender de búsquedas manuales.
+* **Análisis de variaciones automatizado:** Cálculo dinámico de variación mensual, interanual y acumulada mediante inteligencia de tiempo para evaluar el impacto real de la inflación en los costos o ingresos.
+* **Experiencia de usuario intuitiva:** Títulos dinámicos que se adaptan automáticamente a los filtros seleccionados por el usuario, facilitando la lectura ejecutiva y la exportación de reportes.
+
+![Tablero de Cotización UVA ](images/tablero.png)
+
+### Arquitectura y Stack Tecnológico
+* **Extracción y Transformación (ETL):** Power Query para la limpieza, estructuración y actualización de las series oficiales del BCRA.
+* **Modelado y Analítica:** Power BI y DAX avanzado (creación de tabla calendario dedicada y medidas de inteligencia de tiempo).
+
+🔗 **[Explorar el Repositorio]**
+
+
