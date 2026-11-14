@@ -76,4 +76,27 @@ Diseñamos un tablero financiero interactivo conectado a los registros oficiales
 
 🔗 **[Explorar el Repositorio]**
 
+## 📱 Licitaciones del Día: Inteligencia Comercial y Alertas Automatizadas de Compras Públicas
+
+### El Desafío de Negocio
+Las empresas proveedoras del Estado y los socios de cámaras empresarias suelen recibir listados masivos y sin filtrar de las contrataciones públicas (como los del portal COMPR.AR). Revisar cientos de registros diarios de forma manual consume horas valiosas, hace que se pierdan oportunidades de negocio por falta de tiempo y expone a los equipos comerciales a no enterarse si una licitación de su interés sufrió una prórroga o cambio de fecha.
+
+### La Solución de Prisma DS
+Diseñamos un sistema integral de ingesta, clasificación inteligente y notificación móvil. La plataforma procesa diariamente los procesos de compra pública, los categoriza automáticamente por rubro y tipo (bien o servicio) y envía alertas personalizadas al celular de cada empresa únicamente sobre las licitaciones relevantes para su negocio.
+
+![Nuevas oportunidades publicadas ](images/02_nuevos.png)
+
+### Impacto y Funcionalidades Clave
+* **Filtrado automático por rubro:** Cada empresa visualiza exclusivamente las oportunidades alineadas a su actividad comercial, eliminando el ruido operativo de revisar planillas interminables.
+* **Alertas de vencimiento y prórrogas:** Monitoreo continuo de estados para avisar proactivamente qué licitaciones están próximas a abrir y notificar al instante si un proceso guardado como favorito cambia de fecha.
+* **Consultas en lenguaje natural:** Integración opcional con modelos de lenguaje (IA) que permite a los usuarios consultar oportunidades en castellano cotidiano sin necesidad de filtros complejos.
+* **Arquitectura escalable:** Pensado tanto para empresas individuales como para cámaras empresarias que desean ofrecer un servicio de valor agregado a sus socios.
+
+### Arquitectura y Stack Tecnológico
+* **Ingeniería de Datos y Backend:** Python, Pandas, PostgreSQL y SQLAlchemy para la extracción, limpieza, clasificación automatizada y almacenamiento estructurado de procesos.
+* **Analítica y Prototipo Móvil:** HTML, JavaScript, Streamlit y Altair para la visualización de datos y la experiencia de usuario mobile-first.
+* **Inteligencia Artificial:** Integración vía API de procesamiento de lenguaje natural para búsquedas conversacionales.
+
+🔒 *Nota de confidencialidad: Este repositorio funciona como vitrina de arquitectura y producto. El código fuente completo se mantiene en un repositorio privado de Prisma DS.*
+
 
