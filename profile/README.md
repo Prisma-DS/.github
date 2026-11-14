@@ -54,7 +54,7 @@ Desarrollamos una aplicación web interactiva que automatiza el control de factu
 * **Procesamiento y Lógica de Negocio:** Python y Pandas con arquitectura modular separada de la interfaz y cubierta con pruebas automatizadas (`pytest`).
 * **Interfaz y Visualización:** Streamlit y Plotly para una experiencia de usuario ágil, interactiva y sin necesidad de instalación local para el cliente final.
 
-🔗 **[Explorar el Repositorio y Código](https://github.com/jesitm/tablero-monotributo-streamlit)**
+🔗 **[Explorar el Repositorio y Código](https://github.com/Prisma-DS/tablero-monotributo-streamlit)**
 
 ## 📈 Seguimiento de Cotización UVA: Inteligencia Financiera con Datos Oficiales
 
