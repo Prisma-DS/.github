@@ -84,7 +84,18 @@ Las empresas proveedoras del Estado y los socios de cámaras empresarias suelen 
 ### La Solución de Prisma DS
 Diseñamos un sistema integral de ingesta, clasificación inteligente y notificación móvil. La plataforma procesa diariamente los procesos de compra pública, los categoriza automáticamente por rubro y tipo (bien o servicio) y envía alertas personalizadas al celular de cada empresa únicamente sobre las licitaciones relevantes para su negocio.
 
-![Nuevas oportunidades publicadas ](images/02_nuevos.png)
+<table>
+  <tr>
+    <td align="center"><img src="images/01-ingreso.png" width="240" alt="Pantalla de ingreso con socios de ejemplo"><br><sub>Ingreso con socios de ejemplo</sub></td>
+    <td align="center"><img src="images/02-nuevos.png" width="240" alt="Listado de procesos nuevos del rubro del socio"><br><sub>Nuevos del rubro</sub></td>
+    <td align="center"><img src="images/03-prorrogas.png" width="240" alt="Proceso con prórroga y detalle de la fecha anterior y la nueva"><br><sub>Prórrogas con el detalle del cambio</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/04-alertas.png" width="240" alt="Pantalla de alertas con aperturas próximas"><br><sub>Alertas de aperturas próximas</sub></td>
+    <td align="center"><img src="images/05-favoritos.png" width="240" alt="Listado de favoritos marcados con estrella"><br><sub>Favoritos</sub></td>
+    <td align="center"><img src="images/06-interes.png" width="240" alt="Pantalla de interés con los cambios de los procesos seguidos"><br><sub>Cambios en los procesos seguidos</sub></td>
+  </tr>
+</table>
 
 ### Impacto y Funcionalidades Clave
 * **Filtrado automático por rubro:** Cada empresa visualiza exclusivamente las oportunidades alineadas a su actividad comercial, eliminando el ruido operativo de revisar planillas interminables.
