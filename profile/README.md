@@ -32,6 +32,7 @@ Diseñamos un ecosistema de análisis de datos de extremo a extremo que consolid
 - **ETL y Análisis Exploratorio:** Python (Pandas, Matplotlib, Seaborn) para la limpieza, unificación y validación de registros históricos.
 - **Modelado y Optimización:** Power BI y DAX Studio para la creación de métricas de negocio complejas y tiempos de respuesta rápidos.
 
+🔗 **[Explorar el Repositorio y Código](https://github.com/Prisma-DS/informe-gestion-PDS)**
 
 ## 📊  Control de Monotributo: Analítica Predictiva y Automatización para Estudios Contables
 
