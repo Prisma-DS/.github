@@ -11,7 +11,7 @@ Somos una consultoría de datos especializada en reportes, modelado y automatiza
 
 # Proyectos
 
-## Informe de gestión de ventas (Power BI)
+## 📊  Informe de gestión de ventas (Power BI)
 
 ### El Desafío de Negocio
 Las empresas con múltiples puntos de venta suelen acumular años de registros históricos en archivos sueltos (CSV/Excel) sin poder cruzarlos. Esto impide detectar qué sucursales son realmente rentables, qué productos inmovilizan capital y cómo evolucionan los hábitos de pago de los clientes.
@@ -33,7 +33,7 @@ Diseñamos un ecosistema de análisis de datos de extremo a extremo que consolid
 - **Modelado y Optimización:** Power BI y DAX Studio para la creación de métricas de negocio complejas y tiempos de respuesta rápidos.
 
 
-## Control de Monotributo: Analítica Predictiva y Automatización para Estudios Contables
+## 📊  Control de Monotributo: Analítica Predictiva y Automatización para Estudios Contables
 
 ### El Desafío de Negocio
 Los estudios contables suelen gestionar decenas o cientos de clientes monotributistas revisando manualmente planillas descargadas de ARCA. Este proceso consume horas administrativas críticas y expone a los clientes a recategorizaciones de oficio o exclusiones inesperadas del régimen por superar los topes de facturación.
@@ -55,7 +55,7 @@ Desarrollamos una aplicación web interactiva que automatiza el control de factu
 
 🔗 **[Explorar el Repositorio y Código](https://github.com/jesitm/tablero-monotributo-streamlit)**
 
-## Seguimiento de Cotización UVA: Inteligencia Financiera con Datos Oficiales
+## 📈 Seguimiento de Cotización UVA: Inteligencia Financiera con Datos Oficiales
 
 ### El Desafío de Negocio
 En el mercado argentino, miles de contratos comerciales, alquileres, presupuestos de construcción y créditos se ajustan por Unidad de Valor Adquisitivo (UVA). Consultar manualmente las series históricas del Banco Central o calcular variaciones interanuales y acumuladas en hojas de cálculo genera demoras y errores al momento de actualizar valores o proyectar costos.
