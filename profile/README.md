@@ -75,7 +75,7 @@ Diseñamos un tablero financiero interactivo conectado a los registros oficiales
 * **Extracción y Transformación (ETL):** Power Query para la limpieza, estructuración y actualización de las series oficiales del BCRA.
 * **Modelado y Analítica:** Power BI y DAX avanzado (creación de tabla calendario dedicada y medidas de inteligencia de tiempo).
 
-🔗 **[Explorar el Repositorio]**
+🔗 **[Explorar el Repositorio](https://github.com/Prisma-DS/tablero-uva-powerbi)**
 
 ## 📱 Licitaciones del Día: Inteligencia Comercial y Alertas Automatizadas de Compras Públicas
 
