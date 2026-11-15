@@ -141,6 +141,9 @@ Diseñamos un sistema de ingesta, clasificación y notificación móvil. La plat
 * **Analítica y prototipo móvil:** HTML, JavaScript, Streamlit y Altair para la visualización y una experiencia mobile-first.
 * **Inteligencia artificial:** integración vía API de procesamiento de lenguaje natural para búsquedas conversacionales.
 
+🔗 **[Explorar el repositorio]([https://github.com/Prisma-DS/tablero-uva-powerbi](https://github.com/Prisma-DS/alertas-contrataciones-publicas)**
+
+
 🔒 *Nota de confidencialidad: este repositorio funciona como vitrina de arquitectura y producto. El código fuente completo se mantiene en un repositorio privado de Prisma DS.*
 
 # Trabajemos juntos
