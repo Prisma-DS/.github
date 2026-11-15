@@ -33,8 +33,8 @@ Somos una consultoría de datos especializada en reportes, modelado y automatiza
 |---|---|---|---|
 | **Informe de gestión de ventas** | Consolida años de ventas en un tablero ejecutivo | Python, Power BI, DAX | [Ver código](https://github.com/Prisma-DS/informe-gestion-PDS) |
 | **Control de Monotributo** | Controla el tope de facturación de múltiples clientes | Python, Pandas, Streamlit, Plotly | [Ver código](https://github.com/Prisma-DS/tablero-monotributo-streamlit) |
-| **Seguimiento de Cotización UVA** | Consulta y variaciones de la UVA con datos del BCRA | Power Query, Power BI, DAX | [Ver código](https://github.com/Prisma-DS/tablero-uva-powerbi) |
-| **Licitaciones del Día** | Filtra y avisa sobre compras públicas por rubro | Python, PostgreSQL, Streamlit | [Vitrina](https://github.com/Prisma-DS/alertas-contrataciones-publicas) |
+| **Seguimiento de Cotización UVA** | Consulta y variaciones de la UVA con datos del BCRA | Power Query, Power BI, DAX | [Ver](https://github.com/Prisma-DS/tablero-uva-powerbi) |
+| **Licitaciones del Día** | Filtra y avisa sobre compras públicas por rubro | Python, PostgreSQL, Streamlit | [Ver](https://github.com/Prisma-DS/alertas-contrataciones-publicas) |
 
 ## 📊 Informe de gestión de ventas (Power BI)
 
