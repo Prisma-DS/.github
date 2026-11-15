@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="images/logo-oscuro.png">
-    <img src="images/logo-claro.png" alt="Prisma DS" width="360">
+    <source media="(prefers-color-scheme: dark)" srcset="images/fondo-oscuro.png">
+    <img src="images/fondo-claro.png" alt="Prisma DS" width="360">
   </picture>
 </p>
 
