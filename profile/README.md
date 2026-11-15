@@ -34,7 +34,7 @@ Somos una consultoría de datos especializada en reportes, modelado y automatiza
 | **Informe de gestión de ventas** | Consolida años de ventas en un tablero ejecutivo | Python, Power BI, DAX | [Ver código](https://github.com/Prisma-DS/informe-gestion-PDS) |
 | **Control de Monotributo** | Controla el tope de facturación de múltiples clientes | Python, Pandas, Streamlit, Plotly | [Ver código](https://github.com/Prisma-DS/tablero-monotributo-streamlit) |
 | **Seguimiento de Cotización UVA** | Consulta y variaciones de la UVA con datos del BCRA | Power Query, Power BI, DAX | [Ver código](https://github.com/Prisma-DS/tablero-uva-powerbi) |
-| **Licitaciones del Día** | Filtra y avisa sobre compras públicas por rubro | Python, PostgreSQL, Streamlit | Vitrina (código privado) |
+| **Licitaciones del Día** | Filtra y avisa sobre compras públicas por rubro | Python, PostgreSQL, Streamlit | [Vitrina](https://github.com/Prisma-DS/alertas-contrataciones-publicas) |
 
 ## 📊 Informe de gestión de ventas (Power BI)
 
@@ -141,13 +141,11 @@ Diseñamos un sistema de ingesta, clasificación y notificación móvil. La plat
 * **Analítica y prototipo móvil:** HTML, JavaScript, Streamlit y Altair para la visualización y una experiencia mobile-first.
 * **Inteligencia artificial:** integración vía API de procesamiento de lenguaje natural para búsquedas conversacionales.
 
-🔗 **[Explorar el repositorio]([https://github.com/Prisma-DS/tablero-uva-powerbi](https://github.com/Prisma-DS/alertas-contrataciones-publicas)**
+🔗 **[Explorar el repositorio](https://github.com/Prisma-DS/alertas-contrataciones-publicas)**
 
-
-🔒 *Nota de confidencialidad: este repositorio funciona como vitrina de arquitectura y producto. El código fuente completo se mantiene en un repositorio privado de Prisma DS.*
 
 # Trabajemos juntos
 
 ¿Tenés reportes que te llevan demasiado tiempo o datos dispersos en varios archivos? Contanos tu caso: la primera consulta es sin cargo.
 
-📧 [TU-EMAIL@prismads.com.ar](mailto:TU-EMAIL@prismads.com.ar) · 🌐 [prismads.com.ar](https://prismads.com.ar) · 💼 [LinkedIn](https://www.linkedin.com/company/prismads)
+📧 [contacto@prismads.com.ar](mailto:contacto@prismads.com.ar) · 🌐 [prismads.com.ar](https://prismads.com.ar) · 💼 [LinkedIn](https://www.linkedin.com/company/prismads)
