@@ -32,7 +32,7 @@ Somos una consultoría de datos especializada en reportes, modelado y automatiza
 | Proyecto | Qué resuelve | Tecnologías | Repositorio |
 |---|---|---|---|
 | **Informe de gestión de ventas** | Consolida años de ventas en un tablero ejecutivo | Python, Power BI, DAX | [Ver código](https://github.com/Prisma-DS/informe-gestion-PDS) |
-| **Control de Monotributo** | Controla el tope de facturación de múltiples clientes | Python, Pandas, Streamlit, Plotly | [Ver código](https://github.com/Prisma-DS/tablero-monotributo-streamlit) |
+| **Control de Monotributo** | Controla el tope de facturación de múltiples clientes | Python, Pandas, Streamlit, Plotly | [Demo](https://prismads-monotributo-demo.streamlit.app) · [Código](https://github.com/Prisma-DS/tablero-monotributo-streamlit) |
 | **Seguimiento de Cotización UVA** | Consulta y variaciones de la UVA con datos del BCRA | Power Query, Power BI, DAX | [Ver](https://github.com/Prisma-DS/tablero-uva-powerbi) |
 | **Licitaciones del Día** | Filtra y avisa sobre compras públicas por rubro | Python, PostgreSQL, Streamlit | [Ver](https://github.com/Prisma-DS/alertas-contrataciones-publicas) |
 
@@ -83,7 +83,8 @@ Desarrollamos una aplicación web interactiva que automatiza el control de factu
 * **Procesamiento y lógica de negocio:** Python y Pandas con arquitectura modular, separada de la interfaz y cubierta con pruebas automatizadas (`pytest`).
 * **Interfaz y visualización:** Streamlit y Plotly, sin necesidad de instalación local para el usuario final.
 
-<!-- Si la app está online, agregar aquí: 🚀 **[Probar la demo](URL)** -->
+🚀 **[Probar la demo (datos de ejemplo)](https://prismads-monotributo-demo.streamlit.app)**
+
 🔗 **[Explorar el repositorio y el código](https://github.com/Prisma-DS/tablero-monotributo-streamlit)**
 
 ## 📈 Seguimiento de Cotización UVA: datos oficiales del BCRA
